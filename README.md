@@ -23,7 +23,7 @@ This project is a part of my portfolio to showcase my skills in Flutter developm
 
 ## Getting Started
 Feel free to clone this repository, explore the code, and maybe even contribute! Here's how you can get started:
-1. **Clone the repo**: `git clone https://github.com/martha_cmd/apple-reminders-clone.git`
+1. **Clone the repo**: `git clone https://github.com/Martha-cmd/Apple-Reminders-App-With-Flutter.git`
 2. **Install dependencies**: `flutter pub get`
 3. **Run the app**: `flutter run`
 
