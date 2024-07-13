@@ -4,13 +4,13 @@ class RColors {
 
      RColors._();
 
-     static const Color bckgrnd = Colors.white;
+     static const Color bckgrnd = Color(0xFFE8E8E8);
      static const Color darkBckgrnd = Color(0xFF1E1E1E);
 
      static const Color black = Colors.black;
      static const Color white = Colors.white;
      static const Color darkerGey = Color(0xFF232323);
-     static const Color grey = Color(0xFF4F4F4F);
+     static const Color grey = Color(0xFF7A7A7A);
 
 
      // Other Colors

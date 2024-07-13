@@ -6,11 +6,13 @@ class RTextTheme {
      RTextTheme._();
 
      static TextTheme lightTextTheme = TextTheme(
-             titleLarge: const TextStyle().copyWith(fontSize: 20.0, fontWeight: FontWeight.bold, color: RColors.black),
-             titleMedium: const TextStyle().copyWith(fontSize: 18.0, fontWeight: FontWeight.w700, color: RColors.black),
-             titleSmall: const TextStyle().copyWith(fontSize: 16.0, fontWeight: FontWeight.w700, color: RColors.black),
+             headlineMedium: const TextStyle().copyWith(fontSize: 24.0, fontWeight: FontWeight.bold, color: RColors.black),
 
-             bodyLarge: const TextStyle().copyWith(fontSize: 14.0, fontWeight: FontWeight.w600, color: RColors.black),
+             titleLarge: const TextStyle().copyWith(fontSize: 24.0, fontWeight: FontWeight.bold, color: RColors.black),
+             titleMedium: const TextStyle().copyWith(fontSize: 18.0, fontWeight: FontWeight.w700, color: RColors.black),
+             titleSmall: const TextStyle().copyWith(fontSize: 16.0, fontWeight: FontWeight.w500, color: RColors.grey),
+
+             bodyLarge: const TextStyle().copyWith(fontSize: 16.0, fontWeight: FontWeight.w400, color: RColors.black),
              bodyMedium: const TextStyle().copyWith(fontSize: 14.0, fontWeight: FontWeight.normal, color: RColors.black),
              bodySmall: const TextStyle().copyWith(fontSize: 12.0, fontWeight: FontWeight.normal, color: RColors.black),
 

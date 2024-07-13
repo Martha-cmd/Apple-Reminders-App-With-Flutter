@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:reminders_app/Screens/Utils/Themes/themes.dart';
-import 'package:reminders_app/Screens/home.dart';
+import 'package:reminders_app/Screens/Home/home.dart';
 
 
 class RemindersApp extends StatelessWidget {
